@@ -1,7 +1,10 @@
-#Nombre: Eduardo
-#Apellido:Gómez
-#Edad: 18
-#Ciudad: Veracruz,Mexico
-#Hobbies: Programación
+# Mi usuario de git 
 
-#Github: @Excl2394
+Mi nomnbre es  Eduardo Gómez, tengo 18 años
+Vivo en la Ciudad de  Veracruz,Mexico
+# Cosas que me gustan:
+- Matemáticas
+- Ir al gimnasio
+- Dormir
+
+# Github: @Excl2394
