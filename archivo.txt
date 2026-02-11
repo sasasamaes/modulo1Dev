@@ -1,4 +1,8 @@
 Hola
 Esto es otro cambio
 
+<<<<<<< HEAD
 Esto es otro ca
+=======
+Esto es otro cambiog
+>>>>>>> c8e8d4581fa0aced78d2a9e6d0274a076b586e93
